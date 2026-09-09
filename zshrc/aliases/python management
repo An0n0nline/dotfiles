@@ -1,0 +1,10 @@
+#########################
+# Aliases - Python & Package Management
+#########################
+alias pipactivate='source myenv/bin/activate'
+alias pipdelete='rm -rf myenv'
+alias pipexit=deactivate
+alias pipfix='python3 -m venv myenv; source myenv/bin/activate'
+alias pipinstall='pip install -e .'
+alias pipnew='deactivate 2>/dev/null; rm -rf myenv; python3 -m venv myenv; source alias myenv/bin/activate'
+alias pipxinstall='pipx install -e .'
