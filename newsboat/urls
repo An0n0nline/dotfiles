@@ -1,0 +1,197 @@
+# NY TIMES
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+# CNN
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://rss.cnn.com/rss/cnn_latest.rss
+#http://rss.cnn.com/rss/cnn_newspass.rss
+http://rss.cnn.com/rss/cnn_world.rss
+http://rss.cnn.com/rss/cnn_tech.rss
+http://rss.cnn.com/rss/cnn_allpolitics.rss
+#http://rss.cnn.com/rss/cnn_justice.rss
+http://rss.cnn.com/rss/cnn_health.rss
+http://rss.cnn.com/rss/cnn_showbiz.rss
+#http://rss.cnn.com/rss/cnn_tech_space.rss
+http://rss.cnn.com/rss/money_news_international.rss
+http://rss.cnn.com/rss/cnn_travel.rss
+#http://rss.cnn.com/rss/cnn_intl_world.rss
+#http://rss.cnn.com/rss/cnn_intl_africa.rss
+#http://rss.cnn.com/rss/cnn_intl_americas.rss
+#http://rss.cnn.com/rss/cnn_intl_asia.rss
+#http://rss.cnn.com/rss/cnn_intl_europe.rss
+#http://rss.cnn.com/rss/cnn_intl_meast.rss
+http://rss.cnn.com/rss/cnn_opinion.rss
+# GOV
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom
+https://www.nhc.noaa.gov/index-at.xml
+https://www.fema.gov/news/disasters_rss.fema
+# NPR RSS Feed URLs
+https://feeds.npr.org/1001/rss.xml  # News
+https://feeds.npr.org/1002/rss.xml  # News
+https://feeds.npr.org/1003/rss.xml  # National
+https://feeds.npr.org/1004/rss.xml  # World
+https://feeds.npr.org/1006/rss.xml  # Business
+https://feeds.npr.org/1007/rss.xml  # Science
+https://feeds.npr.org/1008/rss.xml  # Culture
+https://feeds.npr.org/1009/rss.xml  # Middle East
+#https://feeds.npr.org/1012/rss.xml  # Politics
+https://feeds.npr.org/1013/rss.xml  # Education
+https://feeds.npr.org/1015/rss.xml  # Race
+https://feeds.npr.org/1016/rss.xml  # Religion
+https://feeds.npr.org/1017/rss.xml  # Economy
+https://feeds.npr.org/1018/rss.xml  # Your Money
+https://feeds.npr.org/1019/rss.xml  # Technology
+https://feeds.npr.org/1020/rss.xml  # Media
+https://feeds.npr.org/1025/rss.xml  # Environment
+https://feeds.npr.org/1026/rss.xml  # Space
+https://feeds.npr.org/1027/rss.xml  # Health Care
+https://feeds.npr.org/1028/rss.xml  # On Aging
+https://feeds.npr.org/1029/rss.xml  # Mental Health
+https://feeds.npr.org/1030/rss.xml  # Children's Health
+https://feeds.npr.org/1031/rss.xml  # Global Health
+https://feeds.npr.org/1032/rss.xml  # Books
+https://feeds.npr.org/1033/rss.xml  # Author Interviews
+https://feeds.npr.org/1034/rss.xml  # Book Reviews
+https://feeds.npr.org/1039/rss.xml  # Music
+https://feeds.npr.org/1040/rss.xml  # In Performance
+https://feeds.npr.org/1045/rss.xml  # Movies
+https://feeds.npr.org/1046/rss.xml  # Performing Arts
+https://feeds.npr.org/1047/rss.xml  # Art & Design
+https://feeds.npr.org/1048/rss.xml  # Pop Culture
+https://feeds.npr.org/1053/rss.xml  # Food
+https://feeds.npr.org/1054/rss.xml  # Gardening
+https://feeds.npr.org/1055/rss.xml  # Sports
+https://feeds.npr.org/1057/rss.xml  # Opinion
+https://feeds.npr.org/1059/rss.xml  # Analysis
+https://feeds.npr.org/1062/rss.xml  # Obituaries
+https://feeds.npr.org/1066/rss.xml  # Your Health
+https://feeds.npr.org/1070/rss.xml  # Law
+https://feeds.npr.org/1124/rss.xml  # Europe
+https://feeds.npr.org/1125/rss.xml  # Asia
+https://feeds.npr.org/1126/rss.xml  # Africa
+https://feeds.npr.org/1127/rss.xml  # Latin America
+https://feeds.npr.org/1128/rss.xml  # Health
+https://feeds.npr.org/1131/rss.xml  # Energy
+https://feeds.npr.org/1132/rss.xml  # Animals
+https://feeds.npr.org/1133/rss.xml  # On Disabilities
+https://feeds.npr.org/1134/rss.xml  # Fitness & Nutrition
+https://feeds.npr.org/1135/rss.xml  # Medical Treatments
+https://feeds.npr.org/1136/rss.xml  # History
+https://feeds.npr.org/1138/rss.xml  # Television
+https://feeds.npr.org/1139/rss.xml  # Recipes
+https://feeds.npr.org/1141/rss.xml  # Fine Art
+https://feeds.npr.org/1142/rss.xml  # Architecture
+https://feeds.npr.org/1143/rss.xml  # Photography
+https://feeds.npr.org/1144/rss.xml  # Theater
+https://feeds.npr.org/1145/rss.xml  # Dance
+https://feeds.npr.org/1146/rss.xml  # Strange News
+https://feeds.npr.org/1150/rss.xml  # Investigations
+https://feeds.npr.org/1161/rss.xml  # Book News & Features
+https://feeds.npr.org/1162/rss.xml  # Impact
+https://feeds.npr.org/1163/rss.xml  # TV Reviews
+https://feeds.npr.org/1164/rss.xml  # Family
+https://feeds.npr.org/1165/rss.xml  # Weather
+https://feeds.npr.org/1166/rss.xml  # Perspective
+https://feeds.npr.org/1167/rss.xml  # Climate
+https://feeds.npr.org/2038/rss.xml  # News
+
+# BBC
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://feeds.bbci.co.uk/news/business/rss.xml
+https://feeds.bbci.co.uk/news/technology/rss.xml
+
+# Reuters
+https://www.reutersagency.com/feed/?best-regions=world&post_type=best
+
+# Al Jazeera
+https://www.aljazeera.com/xml/rss/all.xml
+https://www.aljazeera.com/xml/rss/world.xml
+https://www.aljazeera.com/xml/rss/economy.xml
+https://www.aljazeera.com/xml/rss/opinion.xml
+
+# The Guardian
+https://www.theguardian.com/world/rss
+https://www.theguardian.com/us-news/rss
+https://www.theguardian.com/commentisfree/rss
+https://www.theguardian.com/world/italy/rss
+
+# Japan
+https://www.japantimes.co.jp/feed/topstories/
+https://japantoday.com/feed
+https://english.kyodonews.net/rss/all.xml
+
+# Technology
+https://techcrunch.com/feed/
+https://www.theverge.com/rss/index.xml
+https://www.wired.com/feed/rss
+https://feeds.arstechnica.com/arstechnica/index
+https://www.technologyreview.com/feed/
+
+# Security
+https://feeds.feedburner.com/TheHackersNews
+https://www.schneier.com/feed/
+https://security.googleblog.com/atom.xml
+https://krebsonsecurity.com/feed/
+
+# Business & Finance
+https://www.cnbc.com/id/100003114/device/rss/rss.html
+https://finance.yahoo.com/news/rssindex
+https://www.investing.com/rss/news.rss
+https://seekingalpha.com/market_currents.xml
+
+# Apple
+https://www.apple.com/newsroom/rss-feed.rss
+https://appleinsider.com/rss/news/
+
+# Italy
+https://www.ansa.it/sito/ansait_rss.xml
+https://www.repubblica.it/rss/homepage/rss2.0.xml
+https://www.ilpost.it/feed/
+https://www.fanpage.it/feed/
+https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss
+
+# Sports
+http://www.espncricinfo.com/rss/content/story/feeds/0.xml
+https://www.espn.com/espn/rss/news
+
+# Chicago
+https://www.chicago.gov/city/en/rss.html
+https://www.transitchicago.com/rss/
+
+# Los Angeles
+https://feeds.feedburner.com/latimes/entertainment
+https://feeds.feedburner.com/latimes/california
+
+# Detroit
+https://www.freep.com/rss/feed/
+https://www.detroitnews.com/rss/feed/
+
+# New York City
+https://feeds.nypost.com/nypost/news/local
+https://www.amny.com/feed/
+
+# Cyberpunk & Futurism
+https://www.futurism.com/feed
+https://www.techdirt.com/feed/
+https://www.vice.com/en/rss
+
+# Medical News
+https://www.medscape.com/cx/rssfeeds/2672-news.xml
+https://www.bioworld.com/rss/5
+https://www.nih.gov/health-information/rss-feed
+
+# Engineering & Tech (Cyberpunk adjacent)
+https://hackaday.com/feed/
+https://feeds.arstechnica.com/arstechnica/technology-lab
+
+# Chicago Tribune
+https://www.chicagotribune.com/arcio/rss/category/chicago/ [citation:1][citation:13]
+https://www.chicagotribune.com/arcio/rss/category/nation-world/ [citation:13]
+
+# Los Angeles Times
+https://www.latimes.com/index.rss [citation:8][citation:14]
+
+# Detroit Free Press
+https://static.freep.com/rss/ [citation:3]
+
+# New York Post (Local NYC)
+https://feeds.nypost.com/nypost/news/local
