@@ -21,3 +21,7 @@ alias gotop3='gotop -c solarized'
 alias peaclock="peaclock --config-dir ~/.config/peaclock"
 alias cmusmd='cat ~/Documents/cmus.md'
 alias mocpmd='cat ~/Documents/mocp.md'
+alias termclock1='termclock -af -ni -nl -nm --time-format="%H:%M:%S"'
+alias termclock2='termclock -af -nl -nm --time-format="%H:%M:%S"'
+alias termclock3='termclock -af -ni -nl -nm --time-format="%H:%M"'
+alias termclock4='termclock -af -nl -nm --time-format="%H:%M"'
