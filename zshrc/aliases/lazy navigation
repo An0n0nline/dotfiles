@@ -1,0 +1,17 @@
+#########################
+# Aliases - Navigation
+#########################
+alias home='cd ~'
+alias music='cd ~/Music'
+alias pictures='cd ~/Pictures'
+alias documents='cd ~/Documents'
+alias downloads='cd ~/Downloads'
+alias temp='cd ~/Temp'
+alias videos='cd ~/Videos'
+alias desktop='cd ~/Desktop'
+alias configs='cd ~/.config'
+alias scripts='cd ~/Scripts'
+alias public='cd ~/Public'
+alias gototrash='cd ~/.local/share/Trash'
+alias logs='cd /var/log'
+alias winhomed='cd /mnt/c/users/user/desktop'
