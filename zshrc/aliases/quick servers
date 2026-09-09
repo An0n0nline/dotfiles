@@ -1,0 +1,8 @@
+#########################
+# Aliases - HTTP Servers
+#########################
+alias serverhere='python3 -m http.server --bind 127.0.0.1 8080'
+alias serverhere2='npx http-server -p 8080'
+alias serverhere3='php -S 127.0.0.1:8080'
+alias serverhere4='python3 -m http.server --bind 0.0.0.0 8080'
+alias changeserverpassword='sudo htpasswd /etc/apache2/.htpasswd user'
