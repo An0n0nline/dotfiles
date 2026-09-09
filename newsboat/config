@@ -1,0 +1,9 @@
+browser "links"
+color title black white bold
+color info black white
+color hint-key black white bold
+color hint-keys-delimiter black white
+color hint-separator black white
+color hint-description black white
+color listfocus black white bold
+color listfocus_unread black white bold
