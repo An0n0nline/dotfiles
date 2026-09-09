@@ -1,0 +1,14 @@
+#########################
+# Aliases - File Listing
+#########################
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+alias dirs='ls -d */'
+alias lll='dir -1'
+alias lls='ls -sha | sort | nl'
+alias dirf='ls --group-directories-first'
+alias recent='ls -lut | head -15'
+alias cls='colorls --group-directories-first -S --color=never'
+alias cls2='colorls --group-directories-first -S --sort=extension'
+alias cls3='colorls --group-directories-first -l -S --sort=extension'
