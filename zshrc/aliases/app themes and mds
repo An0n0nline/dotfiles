@@ -1,0 +1,23 @@
+#########################
+# Aliases - Theme Variants
+#########################
+alias mocp1='mocp -T darkdot_theme'
+alias mocp2='mocp -T black_theme'
+alias mocp3='mocp -T example_theme'
+alias mocp4='mocp -T green_theme'
+alias mocp5='mocp -T moca_theme'
+alias mocp6='mocp -T nightly_theme'
+alias mocp7='mocp -T red_theme'
+alias mocp8='mocp -T transparent-background'
+alias mocp9='mocp -T yellow_red_theme'
+alias btm2='btm --theme default-light'
+alias btm3='btm --theme gruvbox'
+alias btm4='btm --theme gruvbox-light'
+alias btm5='btm --theme nord'
+alias btm6='btm --theme nord-light'
+alias gotop1='gotop -c monokai'
+alias gotop2='gotop -c vice'
+alias gotop3='gotop -c solarized'
+alias peaclock="peaclock --config-dir ~/.config/peaclock"
+alias cmusmd='cat ~/Documents/cmus.md'
+alias mocpmd='cat ~/Documents/mocp.md'
