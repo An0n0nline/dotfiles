@@ -1,0 +1,13 @@
+#########################
+# Aliases - System Status
+#########################
+alias status='sudo service --status-all | grep -e "[ + ]" --color=auto'
+alias status+='sudo service --status-all | grep "+" --color=auto'
+alias status++='sudo systemctl status | grep service --color=always'
+alias statusd='systemctl list-unit-files --type=service --state=enabled'
+alias statusd+='systemctl list-units --type=service --state=running'
+alias statusd++="systemctl list-units --type=service --state=running --no-pager | grep -E 'loaded.*active'"
+alias statusd+++="systemctl list-units --type=service --state=active"
+alias sshcheck='journalctl -u ssh.service'
+alias apachecheck='journalctl -u apache2.service'
+alias jailed='sudo fail2ban-client status'
