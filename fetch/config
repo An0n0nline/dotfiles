@@ -1,0 +1,44 @@
+cat > ~/.config/fetch/config << 'EOF'
+# ~/.config/fetch/config
+# Theme: white + cyan, boxed info
+
+# fields – list to show, in this order
+os
+host
+kernel
+uptime
+packages
+shell
+display
+wm
+theme
+icons
+font
+cursor
+terminal
+cpu
+gpu
+memory
+swap
+disk
+ip
+battery
+locale
+colors
+
+# appearance
+label_color=cyan
+separator=─
+box=1
+
+# logo colors (override distro defaults)
+logo_outer=cyan
+logo_inner=white
+
+# 3d
+light=top-left
+spin=xy
+speed=1.0
+size=1.0
+depth=1
+EOF
