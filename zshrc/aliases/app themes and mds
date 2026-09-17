@@ -1,6 +1,7 @@
 #########################
 # Aliases - Theme Variants
 #########################
+# MOC Theme Aliases
 alias mocp1='mocp -T darkdot_theme'
 alias mocp2='mocp -T black_theme'
 alias mocp3='mocp -T example_theme'
@@ -10,24 +11,27 @@ alias mocp6='mocp -T nightly_theme'
 alias mocp7='mocp -T red_theme'
 alias mocp8='mocp -T transparent-background'
 alias mocp9='mocp -T yellow_red_theme'
+# BTM/Bottom Theme Aliases
 alias btm2='btm --theme default-light'
 alias btm3='btm --theme gruvbox'
 alias btm4='btm --theme gruvbox-light'
 alias btm5='btm --theme nord'
 alias btm6='btm --theme nord-light'
+# GoTop Theme Aliases
 alias gotop1='gotop -c default'
 alias gotop2='gotop -c default_dark'
 alias gotop3='gotop -c monokai'
 alias gotop4='gotop -c solarized'
 alias gotop5='gotop -c vice'
 alias gotop6='gotop -c nord'
+# Alias to force Peaclock to use config
 alias peaclock="peaclock --config-dir ~/.config/peaclock"
-alias cmusmd='cat ~/Documents/cmus.md'
-alias mocpmd='cat ~/Documents/mocp.md'
+# TermClock Quick Mods
 alias termclock1='termclock -af -ni -nl -nm --time-format="%H:%M:%S"'
 alias termclock2='termclock -af -nl -nm --time-format="%H:%M:%S"'
 alias termclock3='termclock -af -ni -nl -nm --time-format="%H:%M"'
 alias termclock4='termclock -af -nl -nm --time-format="%H:%M"'
+# VTop Theme Aliases
 alias vtop1='vtop -t acid'
 alias vtop2='vtop -t becca'
 alias vtop3='vtop -t brew'
@@ -62,3 +66,9 @@ alias spf18='sed -i.bak "s/^theme = .*/theme = \"poimandres\"/" ~/.config/superf
 alias spf19='sed -i.bak "s/^theme = .*/theme = \"rose-pine\"/" ~/.config/superfile/config.toml'
 alias spf20='sed -i.bak "s/^theme = .*/theme = \"sugarplum\"/" ~/.config/superfile/config.toml'
 alias spf21='sed -i.bak "s/^theme = .*/theme = \"tokyonight\"/" ~/.config/superfile/config.toml'
+# MicroNeo Theme Aliases
+microneo1='microneo -colorscheme monokai'
+microneo2='microneo -colorscheme zenburn'
+microneo3='microneo -colorscheme gruvbox'
+microneo4='microneo -colorscheme solarized'
+microneo5='microneo -colorscheme s-dark'
