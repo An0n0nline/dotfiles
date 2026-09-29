@@ -1,0 +1,15 @@
+###################
+# Aliases - MPV In Term
+###################
+#alias videoterm='mpv --vo=tct'
+#alias vidterm='mpv --vo=tct'
+#alias vidterm2='mpv --vo-tct-algo=half-blocks'
+#alias vidterm3='mpv --vo-tct-algo=plain'
+#alias vidterm4='mpv --vo-tct-buffering=frame'
+#alias vidterm5='mpv --vo=caca'
+# ------
+alias vidterm='mpv --vo=tct --term-status-msg= --term-playing-msg= --osd-level=0 --no-osc --no-sub --msg-level=all=error'
+alias vidterm2='vidterm --vo-tct-algo=half-blocks'
+alias vidterm3='vidterm --vo-tct-algo=plain'
+alias vidterm4='vidterm --vo-tct-256=yes'
+alias vidterm5='mpv --vo=caca --ytdl-format="bv*[height<=480]+ba/b[height<=480]/b" --term-status-msg= --term-playing-msg= --osd-level=0 --no-osc --no-sub --msg-level=all=error'
